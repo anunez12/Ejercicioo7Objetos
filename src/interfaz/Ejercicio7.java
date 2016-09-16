@@ -262,6 +262,7 @@ public class Ejercicio7 extends javax.swing.JFrame {
         jLabel12.setText("Galeria De Botones (Registro o Borrar)");
         jPanel1.add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 30, -1, -1));
 
+        txtDatos.setEditable(false);
         txtDatos.setBackground(new java.awt.Color(255, 204, 0));
         txtDatos.setColumns(20);
         txtDatos.setFont(new java.awt.Font("MS PGothic", 1, 20)); // NOI18N
